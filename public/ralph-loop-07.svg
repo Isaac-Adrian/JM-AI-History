@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Slide 7 Placeholder</title>
+  <desc id="desc">Guardrails placeholder art.</desc>
+  <rect width="1200" height="675" fill="#431407" />
+  <rect x="78" y="78" width="1044" height="519" rx="30" fill="#7c2d12" fill-opacity="0.28" stroke="#fdba74" stroke-width="6" />
+  <text x="118" y="220" fill="#fff7ed" font-family="Georgia, serif" font-size="54" font-weight="700">Guardrails Win</text>
+  <text x="118" y="310" fill="#fed7aa" font-family="Arial, sans-serif" font-size="30">Tests, review, and stop conditions turn the loop into a process.</text>
+  <text x="118" y="390" fill="#fdba74" font-family="Courier New, monospace" font-size="28">verify(); review(); merge();</text>
+</svg>

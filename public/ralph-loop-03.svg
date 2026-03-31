@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Slide 3 Placeholder</title>
+  <desc id="desc">Agent era placeholder art.</desc>
+  <rect width="1200" height="675" fill="#0f172a" />
+  <rect x="120" y="120" width="960" height="435" rx="32" fill="#111827" stroke="#34d399" stroke-width="6" />
+  <text x="160" y="235" fill="#f9fafb" font-family="Georgia, serif" font-size="52" font-weight="700">Agent Operator Mode</text>
+  <text x="160" y="315" fill="#d1fae5" font-family="Arial, sans-serif" font-size="30">Read the repo. Edit files. Run commands. Try again.</text>
+  <text x="160" y="395" fill="#6ee7b7" font-family="Courier New, monospace" font-size="28">observe(); act(); verify(); retry();</text>
+</svg>

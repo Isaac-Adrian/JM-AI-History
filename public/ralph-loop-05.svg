@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Slide 5 Placeholder</title>
+  <desc id="desc">Vibe coding placeholder art.</desc>
+  <rect width="1200" height="675" fill="#3f0d12" />
+  <rect x="72" y="72" width="1056" height="531" rx="30" fill="#7f1d1d" fill-opacity="0.35" stroke="#fca5a5" stroke-width="6" />
+  <text x="112" y="220" fill="#fff1f2" font-family="Georgia, serif" font-size="54" font-weight="700">Vibe Coding</text>
+  <text x="112" y="310" fill="#fecdd3" font-family="Arial, sans-serif" font-size="30">Speed, intuition, and trust outrun careful implementation.</text>
+  <text x="112" y="390" fill="#fda4af" font-family="Courier New, monospace" font-size="28">ship_fast(); hope_tests_pass();</text>
+</svg>

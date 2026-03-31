@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Slide 1 Placeholder</title>
+  <desc id="desc">Autocomplete era placeholder art.</desc>
+  <rect width="1200" height="675" fill="#111827" />
+  <rect x="70" y="70" width="1060" height="535" rx="28" fill="#1f2937" stroke="#60a5fa" stroke-width="6" />
+  <text x="110" y="220" fill="#f9fafb" font-family="Georgia, serif" font-size="54" font-weight="700">Autocomplete Era</text>
+  <text x="110" y="310" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="30">AI starts by drafting code faster than humans can type it.</text>
+  <text x="110" y="390" fill="#93c5fd" font-family="Courier New, monospace" font-size="28">suggest(); accept(); repeat();</text>
+</svg>

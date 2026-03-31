@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Slide 2 Placeholder</title>
+  <desc id="desc">Prompt patch explain placeholder art.</desc>
+  <rect width="1200" height="675" fill="#172554" />
+  <circle cx="980" cy="130" r="120" fill="#38bdf8" fill-opacity="0.22" />
+  <rect x="70" y="70" width="1060" height="535" rx="28" fill="#0f172a" stroke="#67e8f9" stroke-width="6" />
+  <text x="110" y="220" fill="#f8fafc" font-family="Georgia, serif" font-size="54" font-weight="700">Prompt, Patch, Explain</text>
+  <text x="110" y="310" fill="#bae6fd" font-family="Arial, sans-serif" font-size="30">Chat interfaces turn assistants into collaborators.</text>
+  <text x="110" y="390" fill="#67e8f9" font-family="Courier New, monospace" font-size="28">prompt -> diff -> explanation</text>
+</svg>
